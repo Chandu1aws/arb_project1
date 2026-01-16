@@ -3,3 +3,4 @@ Line2 in remote master
 Line1 in remote feature
 Line2 in remote feature
 Line3 in remote feature
+line4 in local feature
